@@ -1,0 +1,6 @@
+{
+  "name": "BoviSens",
+  "description": "Smart livestock herd monitoring and 24/7 urgent health and estrus alert system for breeders and veterinarians",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
